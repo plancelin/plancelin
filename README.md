@@ -23,15 +23,9 @@ Here are some ideas to get you started:
 - 🌱 **Je participe actuellement à un défi IA ayant pour sujet la prédiction du cumul de pluie !.**
 
 **Languages and Tools:**  
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">
-<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png">
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
 
