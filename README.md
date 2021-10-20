@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I am Paul Lancelin
 
-[![Linkedin Badge](https://img.shields.io/badge/-Paul Lancelin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-lancelin)](https://www.linkedin.com/in/paul-lancelin)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-lancelin)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1446358/wosimosi)](https://stackoverflow.com/users/1446358/wosimosi)
 [![Gmail Badge](https://img.shields.io/badge/-krushnatkhavale@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krushnatkhawale@gmail.com)](mailto:krushnatkhawale@gmail.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/krushnatkhawale) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/krushnatkhawale)
