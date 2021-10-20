@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/plancelin)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.apb.lancelin@gmail.com)
 
-- 🔭 **Je suis actuellement en Master2 Mathématiques Appliquées, Statistiques à l'Université de Rennes 2.**
-- 🌱 **Je participe actuellement à un défi IA ayant pour sujet la prédiction du cumul de pluie !.**
+- 🔭 **I am currently studying for a Master 2 in Applied Mathematics, Statistics at the University of Rennes 2.**
+- ☔️ **I am currently participating in an AI challenge on the subject of rainfall prediction!**
 
 **Languages and Tools:**  
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
